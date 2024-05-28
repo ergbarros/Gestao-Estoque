@@ -1,0 +1,15 @@
+Gestão de estoque (segmento) *** a decidir
+Andres, Edinaldo, Érica e Julia
+- Clientes
+- Fornecedores
+- Produtos (cadastro completo)
+  Obrigatório:
+  - Código do produto
+  - Código de barras
+  - estoque mínimo
+  - preço de custo
+  - margem de lucro
+  - preço de venda
+  - total (patrimônio)
+  - entrada e saída de mercadoria
+________________________________________________________________________
