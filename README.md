@@ -1,2 +1,2 @@
-# Projeto-Gest-o-de-Estoque
+# Projeto Gestão de Estoque
 Projeto Integrador Senac TI
